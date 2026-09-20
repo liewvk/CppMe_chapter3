@@ -3,9 +3,9 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="../Chapte3_example3.6/Chapte3_example3.6.vcxproj" />
-  <Project Path="../CppME_Chapter3_Example3.10/CppME_Chapter3_Example3.10.vcxproj" />
-  <Project Path="../CppME_Chapter3_Example3.11/CppME_Chapter3_Example3.11.vcxproj" />
-  <Project Path="../CppME_Chapter3_Example3.14/CppME_Chapter3_Example3.14.vcxproj" />
-  <Project Path="CppMe_chapter3.vcxproj" />
+  <Project Path="Chapter3_example3.6/Chapte3_example3.6.vcxproj" Id="0388382a-9ec6-459d-b7cd-4d00610db11a" />
+  <Project Path="CppMe_chapter3.vcxproj" Id="196dc0ea-a7c2-4d1d-a1e7-befb1d5af5f7" />
+  <Project Path="CppME_Chapter3_Example3.10/CppME_Chapter3_Example3.10.vcxproj" Id="6ce79723-3c67-4386-b95b-1157cba8b9b5" />
+  <Project Path="CppME_Chapter3_Example3.11/CppME_Chapter3_Example3.11.vcxproj" Id="47fe7a65-dab1-4dbf-b974-2a5ae01288da" />
+  <Project Path="CppME_Chapter3_Example3.14/CppME_Chapter3_Example3.14.vcxproj" Id="b7f5c766-e134-41f4-87cd-2abdc5122810" />
 </Solution>
